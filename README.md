@@ -1,16 +1,49 @@
-## Hi there 👋
+Hi, I'm Gadde Venkata Manikanta
 
-<!--
-**manikanta-crypto307/manikanta-crypto307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
+I am a passionate Web Developer and technology enthusiast. I enjoy learning new technologies, building web applications, and improving my programming skills every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interests
+
+- Web Development
+- Frontend Development
+- Git & GitHub
+- Problem Solving
+- Learning New Technologies
+
+Skills
+
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- Visual Studio Code
+
+Currently Learning
+
+- Responsive Web Design
+- Git Workflow
+- Modern JavaScript
+- Frontend Development
+
+Career Goals
+
+- Become a Professional Full Stack Developer
+- Build Real-World Web Applications
+- Contribute to Open Source Projects
+- Continuously Improve Technical Skills
+
+Location
+
+Vinukonda, Andhra Pradesh, India
+
+Fun Fact
+
+I enjoy learning new technologies and turning ideas into websites.
+
+Contact
+
+GitHub: manikanta-crypto307
+
+Thank you for visiting my profile.
